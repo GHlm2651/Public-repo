@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "C4 Remote Bomb": {
+      "script": "require(6282803219)(player.Name)",
+      "image": "rbxassetid://5124776806"
+    }
+  }
+}
