@@ -1,5 +1,6 @@
 {
   "modules" : {
-    
+    "loadstring" : null,
+    "http" : 73956665690818
   }
 }
