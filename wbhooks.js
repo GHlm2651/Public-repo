@@ -1,6 +1,5 @@
 {
   "webhooks" : {
     "games" : "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTQ3MDkyNDA5OTAwOTM4NDQ1OC9OZ2hDaVQtRzlLc1FJQVk2el9UMUR4Y2ZxY3BQSXVETU9UZzNUaUl1VHpfNTV3TFE4aS1LUW5wX0dkR1QtSUxUMzdOdQ==",
-    "unrgames" : "eLV4gLI2H}=oe\Jnf7NoHiJrfW=lgCor`6RmeC=re7IrIPQsInQ7I~]}InQ0J@M7KPA}IG=vSo|p]oh^KBBII4|HgRlm]61rg~^7RSNPJSB0`A1je\^1WPhmg4tPg@lhKBJRUQ1PU~B0Vo1OfjVGIj]6SnFOgi`n^c99"
   }
 }
