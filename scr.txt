@@ -1,5 +1,6 @@
 local ht = game:GetService("HttpService")
 local id
+warn(`hi from script {script.Name}`)
 if not game:GetService("RunService"):IsStudio() then
 if ht.HttpEnabled then
 id = ht:GetAsync("https://raw.githubusercontent.com/GHlm2651/Public-repo/refs/heads/main/id.txt")
