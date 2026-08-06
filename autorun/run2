@@ -1,5 +1,1 @@
-local message = Instance.new("Message",workspace)
-message.Text = "hi"
-
-task.wait(3)
-message:Destroy()
+print"hi"
